@@ -44,7 +44,7 @@ similar to Typed Racket, and a small subset of Haskell.
 
 [ecoop17]: http://drops.dagstuhl.de/opus/volltexte/2017/7273/pdf/LIPIcs-ECOOP-2017-26.pdf
 [pldi19]:  http://recurial.com/pldi19main.pdf
-[local-tr]: https://legacy.cs.indiana.edu/ftp/techreports/TR741.pdf
+[local-tr]: ./public/pldi19ext.pdf
 [icfp21]:  ./public/icfp21.pdf
 [ismm24]:  ./public/ismm24.pdf
 [ecoop24]: https://drops.dagstuhl.de/storage/00lipics/lipics-vol313-ecoop2024/LIPIcs.ECOOP.2024.38/LIPIcs.ECOOP.2024.38.pdf
