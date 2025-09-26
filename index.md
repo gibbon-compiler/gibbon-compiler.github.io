@@ -2,16 +2,12 @@
 layout: default
 ---
 
-<!-- <div> -->
-<!-- <img class="centered img-70" src="static/gibbon.png"> -->
-<!-- </div> -->
-
-[Gibbon](https://github.com/iu-parfunc/gibbon/tree/master/gibbon-compiler)
+[Gibbon](https://github.com/gibbon-compiler/gibbon/tree/main/gibbon-compiler)
 is an experimental compiler that transforms high-level functional programs
 to operate on _serialized data._ See the [README on GitHub][readme] to get started
 with Gibbon.
 
-[readme]: https://github.com/iu-parfunc/gibbon/blob/main/README.md
+[readme]: https://github.com/gibbon-compiler/gibbon/blob/main/README.md
 
 Typically, programs that process tree-like data represent trees using pointer-based
 data structures in memory (one heap object per-leaf and per-node) because such a
