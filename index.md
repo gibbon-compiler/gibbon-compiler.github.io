@@ -31,11 +31,11 @@ similar to Typed Racket, and a small subset of Haskell.
 
 We use a mailing list for development discussions.
 
-[Email]: gibbon-compiler@groups.io
+Email: [gibbon-compiler@groups.io](mailto:gibbon-compiler@groups.io)
 
-[Archives]: https://groups.io/g/gibbon-compiler
+Archives: [groups.io/g/gibbon-compiler](https://groups.io/g/gibbon-compiler)
 
-[Join]: https://groups.io/g/gibbon-compiler/join
+Join: [Subscribe here](https://groups.io/g/gibbon-compiler/join)
 
 ## Publications
 
