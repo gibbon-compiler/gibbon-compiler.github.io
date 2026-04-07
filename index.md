@@ -27,18 +27,15 @@ by changing how trees are stored in memory.
 Currently, the Gibbon compiler has multiple front-ends: an S-expression syntax
 similar to Typed Racket, and a small subset of Haskell.
 
-## Mailing List
+### Mailing List
 
 We use a mailing list for development discussions.
 
-[Email]
-gibbon-compiler@groups.io
+[Email]: gibbon-compiler@groups.io
 
-[Archives]
-https://groups.io/g/gibbon-compiler
+[Archives]: https://groups.io/g/gibbon-compiler
 
-[Join]
-https://groups.io/g/gibbon-compiler/join
+[Join]: https://groups.io/g/gibbon-compiler/join
 
 ## Publications
 
