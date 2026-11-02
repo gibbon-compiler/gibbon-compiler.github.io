@@ -66,15 +66,15 @@ Join: [Subscribe here](https://groups.io/g/gibbon-compiler/join)
 
 ## Videos
 
-* ECOOP 2017: [Compiling tree transforms to operate on packed representations](https://youtu.be/YDa60NpXp6Q?si=Y8TThFGqxJctw9ih) (Michael Vollmer)
+* ECOOP 2017: [Compiling tree transforms to operate on packed representations](https://youtu.be/YDa60NpXp6Q) (Michael Vollmer)
 
-* FHPC 2018: [Gibbon: A Compiler for Recursive Functions on mostly Serialized Data](https://youtu.be/E-LRy7YJu3o?si=j8yV9YqwHfQ8BxAy) (Chaitanya Koparkar)
+* FHPC 2018: [Gibbon: A Compiler for Recursive Functions on mostly Serialized Data](https://youtu.be/E-LRy7YJu3o) (Chaitanya Koparkar)
 
-* PLDI 2019: [LoCal: A Language for Programs Operating on Serialized Data](https://youtu.be/aDIr-D5Lx08?si=qVdKPY2uG-3_Feku) (Michael Vollmer)
+* PLDI 2019: [LoCal: A Language for Programs Operating on Serialized Data](https://youtu.be/aDIr-D5Lx08) (Michael Vollmer)
 
-* ICFP 2021: [Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representations](https://youtu.be/eeHYCq46nhE?si=xOt7ebV0EEiCHwE0) (Chaitanya Koparkar)
+* ICFP 2021: [Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representations](https://youtu.be/eeHYCq46nhE) (Chaitanya Koparkar)
 
-* ISMM 2024: [Garbage Collection for Mostly Serialized Heaps](https://youtu.be/8Glj9HUgkxo?si=UCEAwZpICHiYoXD3) (Ryan Newton)
+* ISMM 2024: [Garbage Collection for Mostly Serialized Heaps](https://youtu.be/8Glj9HUgkxo) (Ryan Newton)
 
 * ICFP 2026: [LoCalMem: Type-Directed Adaptive Serialization for Location- and Content-Addressable Memory](https://youtu.be/VoIACRWIQds) (Michael Rainey)
 
