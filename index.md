@@ -79,3 +79,9 @@ Join: [Subscribe here](https://groups.io/g/gibbon-compiler/join)
 * ICFP 2026: [LoCalMem: Type-Directed Adaptive Serialization for Location- and Content-Addressable Memory](https://youtu.be/VoIACRWIQds) (Michael Rainey)
 
 * ML 2026: [Functional Programming with Serialized Data](https://youtu.be/MdIG2T-MOWE) (Michael Vollmer)
+
+## Packages
+
+* [packed-data](https://hackage.haskell.org/package/packed-data) Haskell package for building, traversing and deserialising packed data. ECOOP 2025
+
+* [type-machine](https://hackage.haskell.org/package/type-machine) Type-level functions for record types. GPCE 2026
