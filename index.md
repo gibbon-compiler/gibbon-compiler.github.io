@@ -75,3 +75,7 @@ Join: [Subscribe here](https://groups.io/g/gibbon-compiler/join)
 * ICFP 2021: [Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representations](https://youtu.be/eeHYCq46nhE?si=xOt7ebV0EEiCHwE0) (Chaitanya Koparkar)
 
 * ISMM 2024: [Garbage Collection for Mostly Serialized Heaps](https://youtu.be/8Glj9HUgkxo?si=UCEAwZpICHiYoXD3) (Ryan Newton)
+
+* ICFP 2026: [LoCalMem: Type-Directed Adaptive Serialization for Location- and Content-Addressable Memory](https://youtu.be/VoIACRWIQds) (Michael Rainey)
+
+* ML 2026: [Functional Programming with Serialized Data](https://youtu.be/MdIG2T-MOWE) (Michael Vollmer)
